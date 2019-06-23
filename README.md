@@ -18,8 +18,8 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 
 ### FAQ
 
-* [Transaction](faq/transaction-faq.md)
-* [Invoice](faq/invoice-faq.md)
+* '[Transaction](faq/transaction-faq.md)'
+'* [Invoice](faq/invoice-faq.md)'
 
 
 
